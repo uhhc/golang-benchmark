@@ -1,0 +1,26 @@
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+
+# System Files
+.DS_Store
+Thumbs.db
+/.run
+
+# Binary file
+bin
+vendor
+
+# Tmp file
+gl-code-quality-report.json
+
+# Sonarqube file
+.scannerwork
